@@ -30,6 +30,7 @@ RESPONSE GUIDELINES:
 - Stay specific to the user's question
 - Do not include personal opinions, assumptions, or unrelated information
 
+
 EXAMPLE RESPONSE FORMAT:
 "Dexterz Technologies specializes in **custom software development** and **AI solutions**.
 
